@@ -4,6 +4,19 @@
         {
             "__type__": "Deck", 
             "children": [], 
+            "crowdanki_uuid": "be5b4b00-ee05-11e6-9ede-e03f49c5750a", 
+            "deck_config_uuid": "70437ba2-edf5-11e6-bc44-e03f49c5750a", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Anatomy", 
+            "notes": []
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
             "crowdanki_uuid": "7047c15e-edf5-11e6-93b0-e03f49c5750a", 
             "deck_config_uuid": "70437ba2-edf5-11e6-bc44-e03f49c5750a", 
             "desc": "", 
@@ -39,7 +52,7 @@
             "extendNew": 10, 
             "extendRev": 50, 
             "media_files": [], 
-            "name": "Jargon", 
+            "name": "Medical Jargon", 
             "notes": [
                 {
                     "__type__": "Note", 
