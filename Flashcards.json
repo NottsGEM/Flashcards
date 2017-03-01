@@ -2384,6 +2384,42 @@
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
+                        "Doxazosin", 
+                        "Antagonism of type I adrenoceptors (alpha-blockers). Hypertension (resistant), prostatic hypertrophy."
+                    ], 
+                    "flags": 0, 
+                    "guid": "jA@vWATe^v", 
+                    "note_model_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Indoramin", 
+                        "Antagonism of type I adrenoceptors (alpha-blocker). Indicated in resistant hypertension, prostatic hypertrophy."
+                    ], 
+                    "flags": 0, 
+                    "guid": "iZzT~VAoI5", 
+                    "note_model_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Prazosin", 
+                        "Antagonist of type I adrenoceptors (alpha-blockers). Indicated in resistant hypertension and prostatic hypertrophy.&nbsp;"
+                    ], 
+                    "flags": 0, 
+                    "guid": "wRpjy+w*^1", 
+                    "note_model_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
                         "This card type is known as a {{c1::cloze deletion}}.&nbsp;", 
                         ""
                     ], 
@@ -2499,6 +2535,74 @@
                     "name": "Card 1", 
                     "ord": 0, 
                     "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic (and reversed card)", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ], 
+                [
+                    1, 
+                    "all", 
+                    [
+                        1
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }, 
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 2", 
+                    "ord": 1, 
+                    "qfmt": "{{Back}}"
                 }
             ], 
             "type": 0, 
