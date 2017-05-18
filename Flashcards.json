@@ -4,2366 +4,264 @@
         {
             "__type__": "Deck", 
             "children": [], 
-            "crowdanki_uuid": "2d525540-ee00-11e6-b590-e03f49c5750a", 
-            "deck_config_uuid": "70437ba2-edf5-11e6-bc44-e03f49c5750a", 
+            "crowdanki_uuid": "aad41121-3bdf-11e7-ba27-606c664fcc47", 
+            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
             "desc": "", 
             "dyn": 0, 
             "extendNew": 10, 
             "extendRev": 50, 
             "media_files": [], 
-            "mid": 1413245413530, 
-            "name": "Medical Jargon", 
+            "mid": "1483473986791", 
+            "name": "Cardiovascular pharmacology", 
             "notes": [
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "<div>/7</div>", 
-                        "Days"
+                        "ACE inhibitors", 
+                        "A class of drug which inhibits the conversion of Angiotensin I (inactive) to Angiotensin II (active). An example is Ramipril."
                     ], 
                     "flags": 0, 
-                    "guid": "uJ0@j{4c~|", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "/52", 
-                        "Weeks"
-                    ], 
-                    "flags": 0, 
-                    "guid": "g&Y:1xq@I!", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "/40", 
-                        "Weeks Gestation"
-                    ], 
-                    "flags": 0, 
-                    "guid": "B}C6SUS~U.", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "/12", 
-                        "Months"
-                    ], 
-                    "flags": 0, 
-                    "guid": "EI|>CxSZ<#", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "+ / ++ / +++", 
-                        "Present or Noted / Present Significantly / Present in Excess"
-                    ], 
-                    "flags": 0, 
-                    "guid": "H5{F1@>qp!", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "AAA", 
-                        "Abdominal Aortic Aneurysm"
-                    ], 
-                    "flags": 0, 
-                    "guid": "qH>c},&I-1", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ABG", 
-                        "Arterial Blood Gas"
-                    ], 
-                    "flags": 0, 
-                    "guid": "QWk$;$EoJU", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ACEI", 
-                        "Angiotensin Converting Enzyme (ACE) Inhibitor"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Em_(`VuVTm", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ACL", 
-                        "Anterior Cruciate Ligament"
-                    ], 
-                    "flags": 0, 
-                    "guid": "D3,vvLUk7w", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "A/E", 
-                        "Air Entry to Lung"
-                    ], 
-                    "flags": 0, 
-                    "guid": "rNVd<xB7WO", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "A&amp;E", 
-                        "Accident and Emergency"
-                    ], 
-                    "flags": 0, 
-                    "guid": "vxBCfTX.AA", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "AF", 
-                        "Atrial Fibrillation"
-                    ], 
-                    "flags": 0, 
-                    "guid": "utQ=+})*ro", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ARB", 
-                        "Angiotensin Receptor Blocker"
-                    ], 
-                    "flags": 0, 
-                    "guid": "bFPc[C=PY<", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ASD", 
-                        "Atrial Septal Defect"
-                    ], 
-                    "flags": 0, 
-                    "guid": "h2.;s(lNVq", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "AXR", 
-                        "Abdominal X-Ray"
-                    ], 
-                    "flags": 0, 
-                    "guid": "m}-|0t,%7Z", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "bd/bid", 
-                        "Twice a Day"
-                    ], 
-                    "flags": 0, 
-                    "guid": "cWsGgp==!9", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "BCC", 
-                        "Basal Cell Carcinoma"
-                    ], 
-                    "flags": 0, 
-                    "guid": "N]E&iMZfdn", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "BFZ", 
-                        "Bendroflumethiazide"
-                    ], 
-                    "flags": 0, 
-                    "guid": "DQJp-W=Z[>", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "BMI", 
-                        "Body Mass Index"
-                    ], 
-                    "flags": 0, 
-                    "guid": "e=X=~Nu](2", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "BNO", 
-                        "Bowels Not Opened"
-                    ], 
-                    "flags": 0, 
-                    "guid": "nKwB$R%nx*", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "BO", 
-                        "Bowels Open"
-                    ], 
-                    "flags": 0, 
-                    "guid": "fN1ndS%:TK", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "BP", 
-                        "Blood Pressure"
-                    ], 
-                    "flags": 0, 
-                    "guid": "si>d@$I[[4", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DBP", 
-                        "Diastolic Blood Pressure"
-                    ], 
-                    "flags": 0, 
-                    "guid": "GzG!)Sz}$9", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SBP", 
-                        "Systolic Blood Pressure"
-                    ], 
-                    "flags": 0, 
-                    "guid": "F[.%a5DIaR", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CABG/S or CAG/S", 
-                        "Coronary Artery (Bypass) Graft/Surgery"
-                    ], 
-                    "flags": 0, 
-                    "guid": "y(!tk&v/gK", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CCB", 
-                        "Calcium Channel Blocker"
-                    ], 
-                    "flags": 0, 
-                    "guid": "GJOOAIhnF#", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CFS", 
-                        "Chronic Fatigue Syndrome"
-                    ], 
-                    "flags": 0, 
-                    "guid": "kam01AIsE~", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CHD", 
-                        "Coronary Heart Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "j>B)No0*@+", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CNS", 
-                        "Central Nervous System"
-                    ], 
-                    "flags": 0, 
-                    "guid": "L5{a&b-yrA", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "C/o", 
-                        "Complains of"
-                    ], 
-                    "flags": 0, 
-                    "guid": "G(1+5rLdy[", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "COAD", 
-                        "Chronic Obstructive Airways Disease (COPD preferred)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "m]@Cyd89[e", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "COCP", 
-                        "Combined Oral Contraceptive"
-                    ], 
-                    "flags": 0, 
-                    "guid": "gp4e5-3.rp", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "COPD", 
-                        "Chronic Obstructive Pulmonary Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "yeO5Vo~l_y", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Cr", 
-                        "Creatinine"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Bl9ai^YLM@", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CSU", 
-                        "Catheter Specimen of Urine"
-                    ], 
-                    "flags": 0, 
-                    "guid": "l`::TNM8,P", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CT", 
-                        "Computerised Axial Tomography"
-                    ], 
-                    "flags": 0, 
-                    "guid": "qZms(k/xT`", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CTG", 
-                        "Cardiotocograph"
-                    ], 
-                    "flags": 0, 
-                    "guid": "fa$Fh)*,BG", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CVA", 
-                        "Cerebrovascular Accident"
-                    ], 
-                    "flags": 0, 
-                    "guid": "jhgvONGNq*", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CVD", 
-                        "Cardiovascular Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "LGXtTz>qEo", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CVS", 
-                        "Cardiovascular System"
-                    ], 
-                    "flags": 0, 
-                    "guid": "P.hD{GRCMG", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CX or Cx", 
-                        "Cervix"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Nd$u;]cjn8", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "CXR", 
-                        "Chest X-Ray"
-                    ], 
-                    "flags": 0, 
-                    "guid": "j4M8$J+aL}", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "D&amp;V", 
-                        "Diarrhoea and Vomiting"
-                    ], 
-                    "flags": 0, 
-                    "guid": "p=3~lMx=8/", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DIP, PIP", 
-                        "Dorsal/Proximal interphalangeal joints"
-                    ], 
-                    "flags": 0, 
-                    "guid": "cOV;D=xnn:", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DLE", 
-                        "Discoid Lupus Erythematosus"
-                    ], 
-                    "flags": 0, 
-                    "guid": "7=/t.+-gj", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DM", 
-                        "Diabetes Mellitus"
-                    ], 
-                    "flags": 0, 
-                    "guid": "K+OIAyCB8]", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DNA", 
-                        "Did Not Attend"
-                    ], 
-                    "flags": 0, 
-                    "guid": "hi3QU-Pp<s", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DNAR", 
-                        "Do Not Attempt Resuscitation"
-                    ], 
-                    "flags": 0, 
-                    "guid": "BJp>@TB_Ne", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DVT", 
-                        "Deep Vein Thrombosis"
-                    ], 
-                    "flags": 0, 
-                    "guid": "eq|EGaL=17", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "DXT", 
-                        "Deep X-ray Treatment"
-                    ], 
-                    "flags": 0, 
-                    "guid": "tg#.c7)`.K", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ECG", 
-                        "Electrocardiograph"
-                    ], 
-                    "flags": 0, 
-                    "guid": "pJ]*Juu{aH", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "EEG", 
-                        "Electroencephalogram"
-                    ], 
-                    "flags": 0, 
-                    "guid": "P(JuA-mK$z", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ENT", 
-                        "Ear, Nose and Throat"
-                    ], 
-                    "flags": 0, 
-                    "guid": "LsdW=->J)E", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "EPAU", 
-                        "Early Pregnancy Assessment Unit"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Q&^N4W@w$.", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ESR", 
-                        "Erythrocyte Sedimentation Rate"
-                    ], 
-                    "flags": 0, 
-                    "guid": "L_:=BcDXRr", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "FBC", 
-                        "Full Blood Count"
-                    ], 
-                    "flags": 0, 
-                    "guid": "p?orB2VdjE", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "FBG", 
-                        "Fasting Blood Glucose"
-                    ], 
-                    "flags": 0, 
-                    "guid": "x@-8)wZ/fq", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "FROM", 
-                        "Full Range of Movement"
-                    ], 
-                    "flags": 0, 
-                    "guid": "l>KKsvz,KZ", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "FTND", 
-                        "Full Term Normal Delivery"
-                    ], 
-                    "flags": 0, 
-                    "guid": "hd83]hFE{{", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "GCS", 
-                        "Glasgow Coma Scale"
-                    ], 
-                    "flags": 0, 
-                    "guid": "H5LJRR&3HE", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "GI or GIT", 
-                        "Gastrointestinal/Tract"
-                    ], 
-                    "flags": 0, 
-                    "guid": "F!EUm0zj.,", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "GORD", 
-                        "Gastro-oesophageal Reflux Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "j<WcpijbI>", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "GUT or GUS", 
-                        "Genito Urinary Tract/ System"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Np8pN>ZfT$", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "GUM", 
-                        "&nbsp;Genito-Urinary Medicine"
-                    ], 
-                    "flags": 0, 
-                    "guid": "j9rfMW)qa%", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Hb", 
-                        "Haemoglobin"
-                    ], 
-                    "flags": 0, 
-                    "guid": "K;oZ]c9s&X", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "HI", 
-                        "Head Injury"
-                    ], 
-                    "flags": 0, 
-                    "guid": "rwvE(|_?Fg", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "HNPU", 
-                        "Has Not Passed Urine"
-                    ], 
-                    "flags": 0, 
-                    "guid": "JEjyH*)7CG", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "HR", 
-                        "Heart Rate"
-                    ], 
-                    "flags": 0, 
-                    "guid": "m:I-1.[Fn^", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "HS", 
-                        "Heart Sounds"
-                    ], 
-                    "flags": 0, 
-                    "guid": "HIFY}$rwS+", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Ht", 
-                        "<div>Height</div><div><br /></div>"
-                    ], 
-                    "flags": 0, 
-                    "guid": "v@7Tb-C;_Q", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Hx", 
-                        "History (of complaint)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "pR;R{V+G/P", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IBD", 
-                        "Irritable Bowel Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "i`2&+y{73L", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IBS", 
-                        "Inflammatory Bowel Syndrome"
-                    ], 
-                    "flags": 0, 
-                    "guid": "oM|t:i(<K^", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IGT", 
-                        "Impaired Glucose Tolerance"
-                    ], 
-                    "flags": 0, 
-                    "guid": "r-~5aV[Q*M", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IGTN", 
-                        "In Growing Toenail"
-                    ], 
-                    "flags": 0, 
-                    "guid": "tuh7E/_N$m", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IMB", 
-                        "Intermenstrual Bleeding"
-                    ], 
-                    "flags": 0, 
-                    "guid": "df))p(]EqP", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IOP", 
-                        "Intra-ocular Pressure"
-                    ], 
-                    "flags": 0, 
-                    "guid": "OgTEX!Rr]X", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IUCD", 
-                        "Intra-uterine contraceptive device"
-                    ], 
-                    "flags": 0, 
-                    "guid": "L4a|AA%=+B", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IUD", 
-                        "Intra-uterine death"
-                    ], 
-                    "flags": 0, 
-                    "guid": "xXDjzLi(gy", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IUS", 
-                        "Intra-uterine system"
-                    ], 
-                    "flags": 0, 
-                    "guid": "hY&$xoL^$k", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "IVP", 
-                        "Intravenous Pyelogram"
-                    ], 
-                    "flags": 0, 
-                    "guid": "w~o-7<yiL4", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Ix", 
-                        "<div>Investigations</div>"
-                    ], 
-                    "flags": 0, 
-                    "guid": "pbYF;^s8m{", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "JVP", 
-                        "Jugular Venous Pressure"
-                    ], 
-                    "flags": 0, 
-                    "guid": "DV~iPVZJT1", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "K+", 
-                        "<div>Potassium</div>"
-                    ], 
-                    "flags": 0, 
-                    "guid": "J|jlaZi-LU", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "KUB", 
-                        "Kidneys, Ureters, Bladder (xray)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Mj-uh]`y,[", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LFT", 
-                        "Liver Function Test"
-                    ], 
-                    "flags": 0, 
-                    "guid": "BhuLx>wqg*", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LIF", 
-                        "Left Iliac Fossa"
-                    ], 
-                    "flags": 0, 
-                    "guid": "xSgy8{#e{l", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LIH", 
-                        "Left Inguinal Hernia"
-                    ], 
-                    "flags": 0, 
-                    "guid": "KeJjrH2=L3", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LOC", 
-                        "Loss of Consciousness"
-                    ], 
-                    "flags": 0, 
-                    "guid": "zWT!|vhD=*", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LN", 
-                        "Lymph Node"
-                    ], 
-                    "flags": 0, 
-                    "guid": "g7Rk(bIA|g", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LP", 
-                        "Lumbar puncture"
-                    ], 
-                    "flags": 0, 
-                    "guid": "y?4ATY1O>u", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "L/R IH", 
-                        "<!--StartFragment-->Left or Right Inguinal Hernia<!--EndFragment-->"
-                    ], 
-                    "flags": 0, 
-                    "guid": "B!n[rs-I){", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LSCS", 
-                        "Lower (Uterine) Segment Caesarean section"
-                    ], 
-                    "flags": 0, 
-                    "guid": "ntZ0^i[Ci]", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LUQ", 
-                        "Left Upper Quadrant"
-                    ], 
-                    "flags": 0, 
-                    "guid": "JLmdNyTYAl", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LVDD", 
-                        "Left Ventricular Diastolic Dysfunction"
-                    ], 
-                    "flags": 0, 
-                    "guid": "pv)UtT4BVP", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "LVSD", 
-                        "Left Ventricular Systolic Dysfunction"
-                    ], 
-                    "flags": 0, 
-                    "guid": "D~Rf}+9%H*", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Mane", 
-                        "In the Morning"
-                    ], 
-                    "flags": 0, 
-                    "guid": "wwWI&e$s%<", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MAU", 
-                        "Medical Admissions Unit"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Dm:l)T`%<", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MCV", 
-                        "Mean Corpuscular Volume"
-                    ], 
-                    "flags": 0, 
-                    "guid": "PBG}]6qmkj", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ME", 
-                        "Myalgic Encephalomyelitis (Chronic Fatigue Syndrome preferred)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "x4BDvQ1f.[", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MET/S", 
-                        "<div>Metastases</div><div><br /></div>"
-                    ], 
-                    "flags": 0, 
-                    "guid": "qn;&QZR)$b", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MI", 
-                        "Myocardial infarction (NSTEMI or STEMI preferred)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "u1;w(f.o(]", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MRI", 
-                        "Magnetic Resonance Imaging"
-                    ], 
-                    "flags": 0, 
-                    "guid": "d*=_>hThk[", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MS", 
-                        "Multiple Sclerosis (Write in full: Mitral Stenosis)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "NkZ_DinN^+", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MSK", 
-                        "Musculo-Skeletal System"
-                    ], 
-                    "flags": 0, 
-                    "guid": "wcG)hiPxE{", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MSE", 
-                        "Mental State Examination"
-                    ], 
-                    "flags": 0, 
-                    "guid": "q9JtFH@Dy=", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MSU", 
-                        "Mid-Stream Urine Sample (for culture and sensitivity)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Gl8<U-TJUl", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "MTX", 
-                        "Methotrexate"
-                    ], 
-                    "flags": 0, 
-                    "guid": "h+jU?Hj}v-", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Na+", 
-                        "Sodium"
-                    ], 
-                    "flags": 0, 
-                    "guid": "o.FfTFxvkZ", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "NAD", 
-                        "Nothing Abnormal Discovered"
-                    ], 
-                    "flags": 0, 
-                    "guid": "jwI>Uf!2]z", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "NBI", 
-                        "No Bone Injury"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Kq#!Yi/D-6", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Nocte", 
-                        "At Night"
-                    ], 
-                    "flags": 0, 
-                    "guid": "PvS]f%v74]", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "NSTEMI", 
-                        "Non ST Elevation Myocardial Infarction"
-                    ], 
-                    "flags": 0, 
-                    "guid": "wG8AvV5ag3", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "N&amp;V", 
-                        "Nausea &amp; Vomiting"
-                    ], 
-                    "flags": 0, 
-                    "guid": "yGX[U5~o0)", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "OA", 
-                        "<div>Osteoarthritis</div><div><br /></div>"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Dn>2Ho/7~h", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "o.d.", 
-                        "Once a Day"
-                    ], 
-                    "flags": 0, 
-                    "guid": "n7n4}CaX-)", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "O/E", 
-                        "On Examination"
-                    ], 
-                    "flags": 0, 
-                    "guid": "ELO`x#>D/{", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "OGD", 
-                        "Oesophago-gastro-duodenoscopy"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Lg_6(x-_q_", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "OGTT", 
-                        "Oral Glucose Tolerance Test"
-                    ], 
-                    "flags": 0, 
-                    "guid": "b9o=N~%9t(", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "on", 
-                        "At Night (when written next to medication dosing only)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "d.<XL)}YRF", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "om", 
-                        "In the Morning (when written next to medication dosing only)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Ai[`zZ1]!o", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "OM", 
-                        "Otitis Media"
-                    ], 
-                    "flags": 0, 
-                    "guid": "IHy~?.TmP@", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ORIF", 
-                        "Open Reduction and Internal Fixation (of fracture)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "LTsOX@opH4", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "otc", 
-                        "Over the counter (bought medication)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Hz?9}n)t_}", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "P", 
-                        "Pulse"
-                    ], 
-                    "flags": 0, 
-                    "guid": "sku`$b<v7V", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PAD", 
-                        "Peripheral Arterial Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "gr+jWvLnG9", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PCB", 
-                        "Post Coital Bleeding"
-                    ], 
-                    "flags": 0, 
-                    "guid": "I81SapLO@l", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PE", 
-                        "Pulmonary Embolism"
-                    ], 
-                    "flags": 0, 
-                    "guid": "bbu,ARM*Dq", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PERLA", 
-                        "Pupils equal and reacting to light and accommodation"
-                    ], 
-                    "flags": 0, 
-                    "guid": "pe0qC]B!su", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PF / PEFR", 
-                        "Peak Flow / peak expiratory flow rate"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Qvq5JLlzbd", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Plt", 
-                        "<div>Platelets</div><div><br /></div>"
-                    ], 
-                    "flags": 0, 
-                    "guid": "h4Q*rxyFEc", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PM", 
-                        "Post mortem examination"
-                    ], 
-                    "flags": 0, 
-                    "guid": "n[w?t<v|+>", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PMB", 
-                        "Post menstrual Bleeding"
-                    ], 
-                    "flags": 0, 
-                    "guid": "zer,xKsm}0", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PMH also PHx", 
-                        "Previous Medical History"
-                    ], 
-                    "flags": 0, 
-                    "guid": "uavLkx/cwq", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PND", 
-                        "Paroxysmal Nocturnal Dyspnoea"
-                    ], 
-                    "flags": 0, 
-                    "guid": "e|~lW[#H[{", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PO", 
-                        "Per Orim (by mouth)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "eK_N0.r?8R", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "POP", 
-                        "Progesterone Only Pill&nbsp;"
-                    ], 
-                    "flags": 0, 
-                    "guid": "c25.XS`>1[", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PR", 
-                        "Per Rectum"
-                    ], 
-                    "flags": 0, 
-                    "guid": "fB!A7d*s|y", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PRN", 
-                        "As Required"
-                    ], 
-                    "flags": 0, 
-                    "guid": "G#4ZxcrmbR", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PTCA", 
-                        "Percutaneous transluminal coronary angioplasty"
-                    ], 
-                    "flags": 0, 
-                    "guid": "o%n[PI8vRq", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PTSD", 
-                        "Post Traumatic Stress Disorder"
-                    ], 
-                    "flags": 0, 
-                    "guid": "x%1x1:JYpx", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PU", 
-                        "Peptic Ulcer OR Passed urine"
-                    ], 
-                    "flags": 0, 
-                    "guid": "wn0}.PnX)x", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PV", 
-                        "Per Vagina"
-                    ], 
-                    "flags": 0, 
-                    "guid": "EV??yyq3jz", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "PVD", 
-                        "Peripheral Vascular Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "qYnhukds*z", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "qds or qid", 
-                        "Four times a day"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Gys/*fbYFd", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Resp / RR", 
-                        "Respiration (Rate)"
-                    ], 
-                    "flags": 0, 
-                    "guid": "ejGt(2P2w@", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RA", 
-                        "Rheumatoid Arthritis"
-                    ], 
-                    "flags": 0, 
-                    "guid": "G(h#{575AO", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RDS", 
-                        "Respiratory Distress Syndrome"
-                    ], 
-                    "flags": 0, 
-                    "guid": "v>`DeKNtZ]", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RIF", 
-                        "Right Iliac Fossa"
-                    ], 
-                    "flags": 0, 
-                    "guid": "jK:`;lDkK(", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RIH", 
-                        "Right Inguinal Hernia"
-                    ], 
-                    "flags": 0, 
-                    "guid": "E.#lJfUhn9", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "R/LIF", 
-                        "Right/Left Iliacfossa"
-                    ], 
-                    "flags": 0, 
-                    "guid": "gg6/WJI]}R", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RS", 
-                        "Respiratory System"
-                    ], 
-                    "flags": 0, 
-                    "guid": "E97?I#t9Em", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RSI", 
-                        "Repetitive Strain Injury"
-                    ], 
-                    "flags": 0, 
-                    "guid": "ymh>w[L1^~", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RTA", 
-                        "<div>Road Traffic Accident (write renal tubular acidosis in full) Note that whilst</div><div>Road traffic accident is in common use, RTC is the preferred term.</div>"
-                    ], 
-                    "flags": 0, 
-                    "guid": "oG#Ip-k>L1", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RTC", 
-                        "Road Traffic Crash"
-                    ], 
-                    "flags": 0, 
-                    "guid": "r/xe&`UxZt", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "RUQ", 
-                        "Right Upper Quadrant"
-                    ], 
-                    "flags": 0, 
-                    "guid": "uV26O1qTBz", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Rx", 
-                        "Prescription or Treatment"
-                    ], 
-                    "flags": 0, 
-                    "guid": "b1/@=-O$s-", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SBG", 
-                        "Serum Blood Glucose"
-                    ], 
-                    "flags": 0, 
-                    "guid": "x/!uId[$Tc", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SLR", 
-                        "Straight Leg Raising"
-                    ], 
-                    "flags": 0, 
-                    "guid": "xUsDvN|ap1", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SMR", 
-                        "Submucosal Resection"
-                    ], 
-                    "flags": 0, 
-                    "guid": "buos~XIoR.", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SOB", 
-                        "Short of Breath"
-                    ], 
-                    "flags": 0, 
-                    "guid": "jd4y`f8b#+", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SR", 
-                        "Sinus rhythm"
-                    ], 
-                    "flags": 0, 
-                    "guid": "eaI5rICwh1", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Stat", 
-                        "Immediately"
-                    ], 
-                    "flags": 0, 
-                    "guid": "j#HH3n)rwi", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "STD", 
-                        "Sexually Transmitted Disease"
-                    ], 
-                    "flags": 0, 
-                    "guid": "AE6UTsR!^>", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "STEMI", 
-                        "ST Elevation Myocardial Infarction"
-                    ], 
-                    "flags": 0, 
-                    "guid": "HRGVP:[p]o", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "STI", 
-                        "Sexually Transmitted Infection"
-                    ], 
-                    "flags": 0, 
-                    "guid": "i+%6p<nkZI", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SVD", 
-                        "Spontaneous Vertex Delivery"
-                    ], 
-                    "flags": 0, 
-                    "guid": "hZ!XtF|97+", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Sx", 
-                        "Symptoms"
-                    ], 
-                    "flags": 0, 
-                    "guid": "v[0+!C;Jmu", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "SkXR", 
-                        "&nbsp;Skull X-ray"
-                    ], 
-                    "flags": 0, 
-                    "guid": "j2R)!~g{KR", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "T", 
-                        "Temperature"
-                    ], 
-                    "flags": 0, 
-                    "guid": "iV`IxZYqYn", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "TATT", 
-                        "Tired all the Time"
-                    ], 
-                    "flags": 0, 
-                    "guid": "Q507!UPm$E", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "TB", 
-                        "Tuberculosis"
-                    ], 
-                    "flags": 0, 
-                    "guid": "g]Ph(V6iyD", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "<div>TCI</div>", 
-                        "To come in-date or fact that a person is due to be admitted to hospital"
-                    ], 
-                    "flags": 0, 
-                    "guid": "D(EHIE!nM-", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "tds (or) tid&nbsp;", 
-                        "Three Times a Day"
-                    ], 
-                    "flags": 0, 
-                    "guid": "I<:]uSp7*{", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "TFTs", 
-                        "Thyroid Function Test"
-                    ], 
-                    "flags": 0, 
-                    "guid": "pZDQgX~/V(", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "THR", 
-                        "Total Hip Replacement"
-                    ], 
-                    "flags": 0, 
-                    "guid": ">sEo^oR#A", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "TIA", 
-                        "Transient Ischaemic Attack"
-                    ], 
-                    "flags": 0, 
-                    "guid": "KB<mPFP7yV", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "TKR", 
-                        "Total Knee Replacement"
-                    ], 
-                    "flags": 0, 
-                    "guid": "n2dAfRt]VH", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
+                    "guid": "A`zgAkwxcZ", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "TM&nbsp;", 
-                        "Tympanic Membrane"
+                        "Beta-blockers", 
+                        "Full antagonists of beta-adrenoreceptors, some can be cardio-specific (e.g. bisoprolol) blocking type I adrenoreceptors. Their effect is to cause vasodilation, and they can be used to treat tachycardia (sometimes with Ivabradine)."
                     ], 
                     "flags": 0, 
-                    "guid": "K<d+P0v+~h", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
+                    "guid": "I%}[_(Kr+v", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "TOP (MTOP/STOP)", 
-                        "Termination of pregnancy (Medical ~ / Surgical~)"
+                        "Angiotensin receptor blockers (ARBs)", 
+                        "Drugs which act to prevent the binding of Angiotensin II to its receptor subtypes (via competitve inhibition?).&nbsp;"
                     ], 
                     "flags": 0, 
-                    "guid": "P_Q=q=UhD^", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
+                    "guid": "c,i&O,_d6p", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "TShR", 
-                        "Total Shoulder Replacement"
+                        "Aldosterone antagonists", 
+                        "Drugs which competitively inhibit aldosterone."
                     ], 
                     "flags": 0, 
-                    "guid": "d<WvjlAR]S", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
-                    "tags": []
-                }, 
+                    "guid": "zXpV`Wythy", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "aad4383b-3bdf-11e7-9302-606c664fcc47", 
+            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Alimentary pharmacology", 
+            "notes": [
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "TURP/T", 
-                        "Transurethral resection of Prostate / (Bladder) Tumour"
+                        "Serotonin / 5HT<sub>3</sub> antagonists", 
+                        "MOA: antagonise 5HT<sub>3</sub>&nbsp;receptors.<div><br /></div><div>E.g.: Ondansetron, granisetron</div><div><br /></div><div>Indications: cancer chemotherapy emesis and postoperative N&amp;V.</div><div><br /></div><div>ADRs: constipation, flushing, headache, fatigue .</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "bh=v[fs)bz", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "dEUvOSw!7", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "UC", 
-                        "Ulcerative Colitis"
+                        "Proton pump inhibitors (PPIs)", 
+                        "<div>MOA: irreversible inhibition of proton pumps (H<sup>+</sup>/K<sup>+</sup> ATPase) of gastric parietal cells. Reducing gastric acid secretion.&nbsp;</div><div><br /></div><div>E.g.: Lansoprazole, omeprazole, pantoprazole.</div><div><br /></div><div>Indications: Dyspepsia, peptic ulceration, GORD, prophylaxis against NSAID overuse.</div><div><br /></div><div>ADRs: nausea, diarrhea, fatigue, flatulence, abdominal pain.</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "p-K.I`hh$C", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "o<}w$|uQUe", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "U&amp;Es", 
-                        "Urea and Electrolytes"
+                        "Bulk laxatives", 
+                        "<div>MOA: addition of insoluble fibre to faecal matter makes it bigger and softer, will also distend GIT and activate stretch receptors (increasing parasympathetic activity).</div><div><br /></div><div>E.g.: Isphaghula, Methylcellulose</div><div><br /></div><div>Indications: constipation (small hard stool)</div><div><br /></div><div>ADRs: Flatulence, abdominal distension, bloating&nbsp;</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "H)7vx,+gS5", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "z!Gv&q2wK)", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "USS", 
-                        "Ultra Sound Scan"
+                        "Osmotic laxatives", 
+                        "<div>MOA: use of solute which will cause the entry of water (hypertonic) to GIT lumen by osmosis.</div><div><br /></div><div>E.g.: Lactulose, macrogols&nbsp;</div><div><br /></div><div>Indications: constipation, hepatic encephalopathy&nbsp;</div><div><br /></div><div>ADRs: flatulence, abdominal distension, bloating, cramps, electrolyte disturbances</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "MOs/eM%Qlu", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "f2`hn5k8`}", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "UTI", 
-                        "Urinary Tract Infection"
+                        "Stool softeners (laxative)", 
+                        "<div>MOA: reduces tension between stool and gut wall by lubricating stool.</div><div><br /></div><div>E.g.: Liquid paraffin, docusate sodium.</div><div><br /></div><div>Indications: faecal impaction.&nbsp;</div><div><br /></div><div>ADRs: Impairment of synthesis/absorption of fat soluble vitamins (ADKE).</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "dzzOD{P6>y", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "uuJ[+rwZc1", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "VF", 
-                        "Ventricular Fibrillation"
+                        "Stimulant (laxative)", 
+                        "<div>MOA: induces peristalsis and GI secretions by stimulating enteric nervous system (submucosal/myenteric plexuses) - part of ANS.</div><div><br /></div><div>E.g.: Senna, bisacodol</div><div><br /></div><div>Indications: opioid induced constipation</div><div><br /></div><div>ADRs: abdominal cramp, obstruction (impaction)</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "Lk:BEVxdZ3", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "f-5v[{)&*?", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "VT", 
-                        "Ventricular Tachycardia"
+                        "Antihistamine (antiemetic)", 
+                        "<div>MOA: antagonist of H<sub>2</sub>&nbsp;receptors in the gastric parietal cells.&nbsp;</div><div><br /></div><div>E.g.: Ranitidine&nbsp;</div><div><br /></div><div>Indications: Dyspepsia, peptic ulceration, GORD, vestibular pathology</div><div><br /></div><div>ADRs: Antimuscarinic effects (dry mouth, drowsiness, blurred vision, urinary retention).</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "d;N0sk05c=", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "pdJ3a%E$G^", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "VTE", 
-                        "Venous Thromboembolism"
+                        "Dopamine antagonist", 
+                        "<div>MOA: antagonises dopamine receptors&nbsp;(D<sub>2</sub>/D<sub>3</sub>&nbsp;receptors)&nbsp;in the gastric pylorus and dudodenum to increase in gastric emptying.&nbsp;</div><div>&nbsp; &nbsp; &nbsp;Additional: also blocks dopamine receptors in the medulla oblongata - reducing nausea.</div><div><br /></div><div>E.g.: Domperidone , Metoclopramide</div><div><br /></div><div>Indications: drug induced (opioid) nausea, bloating</div><div><br /></div><div>ADRs: dizziness, drowsiness, extrapyramidal side effects&nbsp;</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "oZI/1gn8;$", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "Ob4P,eoSJ}", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "wbc", 
-                        "White Blood Cell Count"
+                        "Antimuscarinics", 
+                        "MOA: antagonise muscarinic (M<sub>3 </sub>?) receptors.<div><br /></div><div>E.g.: hyoscine butylbromide</div><div><br /></div><div>Indications: Motion sickness, GI cramp</div><div><br /></div><div>ADRs: Dry mouth, drowsiness, blurred vision, urinary retention</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "mkC*^S/<d5", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "j6d&p-Er)r", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Wd&nbsp;", 
-                        "Ward"
+                        "Levomepromazine (special antiemetic in formulary)", 
+                        "MOA: mixed - D<sub>2 </sub>antagonist, H<sub>1</sub>&nbsp;antagonist, muscarinic receptor antagonsist, 5HT<sub>2a</sub>&nbsp;receptor antagonist.<div><br /></div><div>Indications: Palliative care, restlessness</div><div><br /></div><div>ADRs: raised ESR, hyperglycemia</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "HlUsP)W6;^", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "fEX:3^M(;%", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Wt&nbsp;", 
-                        "Weight"
+                        "Cytoprotective prostaglandin analogue", 
+                        "MOA: Analogue of PGE1, reduces H<sup>+</sup>&nbsp;secretion and stimulates bicarbonate and mucus secretion.&nbsp;<div><br /></div><div>E.g.: Misoprostol</div><div><br /></div><div>Indication: Prophylaxis against NSAID-induced damage</div><div><br /></div><div>ADRs: diarrhoea, abdominal pain, N&amp;V, flatulence, dyspepsia</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "zRZ^c/_CX7", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "ftwvbU>iGG", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "<div>#</div>", 
-                        "Fracture"
+                        "Antispasmotic", 
+                        "MOA: phosphodiesterase inhibtor (?MOA in formulary). Has anticholinergic (antagonise nAChr - like curare) effects.<div><br /></div><div>E.g.: Mebeverine</div><div><br /></div><div>Indication: IBS</div><div><br /></div><div>ADRs: Indigestion, constipation, dizziness, loss of appetite, bradycardia</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "m>F2I(Ow5D", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "ofUo;(g$}Y", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Ca", 
-                        "Carcinoma&nbsp;<div><font color=\"#ff0000\"><br /></font></div><div><font color=\"#ff0000\"><br /></font></div><div><font color=\"#ff0000\">ambiguous!!</font></div>"
+                        "Antidiarrhoeal", 
+                        "MOA: opioid which reduces colonic activity by presynaptic inhibition of parasympathetic fibres (opioid receptors mediate G<sub>i </sub>induced increase of K<sup>+</sup>, decrease of cAMP)<div><br /></div><div>E.g.: Loperamide</div><div><br /></div><div>Indication: Diarrhoea</div><div><br /></div><div>ADRs: N&amp;V, flatulence, headache (dehydration), drowsiness</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "opkY4lk%fE", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "AN[Kd8ZZ1p", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "FOOSH", 
-                        "<b><u>F</u></b>all <b><u>O</u></b>nto an <b><u>O</u></b>ut<b><u>s</u></b>tretched <b><u>H</u></b>and"
+                        "Anti-obesity", 
+                        "MOA: Inhibit pancreatic lipase action.<div><br /></div><div>E.g.: Orlistat</div><div><br /></div><div>Indication: Obesity (adjunct)</div><div><br /></div><div>ADRs: oily leakage from rectum, flatulence, faecal urgency/incontinece, liquid or oily stool</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "h!hy_SSE0n", 
-                    "note_model_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+                    "guid": "D|L+?Fm@5F", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "This is the largest {{c2::sessamoid}} bone ... {{c1::patella}}", 
-                        ""
+                        "5-aminosalicylates", 
+                        "MOA: stimulate synthesis of 5-aminoslicylic acid; which inhibits leukotriene and prostanoid formation, reduces free radical scavenging and decreases neutrophil chemotaxis.<div><br /></div><div>E.g.: Mesalazine, sulfasalazine&nbsp;</div><div><br /></div><div>Indication: IBD (Crohn's and UC), Rheumatoid arthritis</div><div><br /></div><div>ADRs: diarrhoea, N&amp;V, abdominal pain, hypersensitivity reactions (rash and urticaria)&nbsp;</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "vP@|kfRgWw", 
-                    "note_model_uuid": "704b91f0-edf5-11e6-82ad-e03f49c5750a", 
+                    "guid": "hOrOH-.%m|", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }
             ]
@@ -2371,75 +269,133 @@
         {
             "__type__": "Deck", 
             "children": [], 
-            "crowdanki_uuid": "7047c15e-edf5-11e6-93b0-e03f49c5750a", 
-            "deck_config_uuid": "70437ba2-edf5-11e6-bc44-e03f49c5750a", 
+            "crowdanki_uuid": "aad4ad6d-3bdf-11e7-9141-606c664fcc47", 
+            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
             "desc": "", 
             "dyn": 0, 
             "extendNew": 10, 
             "extendRev": 50, 
             "media_files": [], 
-            "name": "Pharmacology", 
+            "name": "Respiratory pharmacology", 
             "notes": [
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Doxazosin", 
-                        "Antagonism of type I adrenoceptors (alpha-blockers). Hypertension (resistant), prostatic hypertrophy."
+                        "Beta-2 agonists (long acting 8-12hrs)", 
+                        "MOA: (via sympathetic nervous system) increases cAMP through Gs; cAMP activates PKA which inhibits MLCK (therefore no Ca<sup>2+</sup>&nbsp;release and subsequent bronchoconstriction).&nbsp;<div><br /></div><div>E.g. Salmeterol and formoterol.&nbsp;</div><div><br /></div><div>Indicated in asthma and COPD.&nbsp;</div><div><br /></div><div>ADRs:&nbsp;Tremors, tachycardia, hypokalaemia.</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "jA@vWATe^v", 
-                    "note_model_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
+                    "guid": "k-Fw7ojND^", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Indoramin", 
-                        "Antagonism of type I adrenoceptors (alpha-blocker). Indicated in resistant hypertension, prostatic hypertrophy."
+                        "Antihistamines", 
+                        "MOA: Antagonise H<sub>1</sub>&nbsp;receptors to dampen type 1 hypersensitivity response (IgE mediated action of mast cells and basophils).&nbsp;<div><br /></div><div>E.g. Chlorphenamine, cetirizine, loratidine.</div><div><br /></div><div>Indications: poorly controlled chronic asthma.</div><div><br /></div><div>ADRs: misregulated hypersensitivity reactions.</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "iZzT~VAoI5", 
-                    "note_model_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
+                    "guid": "w0Jb8aJgeg", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Prazosin", 
-                        "Antagonist of type I adrenoceptors (alpha-blockers). Indicated in resistant hypertension and prostatic hypertrophy.&nbsp;"
+                        "Corticosteroids", 
+                        "MOA: immunosuppresive action, particularly stimulates the production of lipocortin which inhibits phospholipase A<sub>2 </sub>(reducing release of cytokines).<div><br /></div><div>E.g. Budenoside, Beclometasone, Dexamethazone</div><div><br /></div><div>Indication: asthma (preventions), hayfever, Crohn's disease and ulcerative colitis.</div><div><br /></div><div>ADRs: hoarse voice and oral candidiasis&nbsp;</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "wRpjy+w*^1", 
-                    "note_model_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
+                    "guid": "O]j*qaXBK>", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }, 
                 {
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "This card type is known as a {{c1::cloze deletion}}.&nbsp;", 
-                        ""
+                        "Cromones", 
+                        "<div>MOA: unclear. May prevent mast cell degranulation / eosinophil activation.</div><div><br /></div><div>E.g. Sodium cromoglicate.&nbsp;</div><div><br /></div><div>Indications: Asthma (prevention), allergic rhinitis</div><div><br /></div><div>ADR: throat irritation</div>"
                     ], 
                     "flags": 0, 
-                    "guid": "GZup=O*}r!", 
-                    "note_model_uuid": "704b91f0-edf5-11e6-82ad-e03f49c5750a", 
-                    "tags": [
-                        "Test"
-                    ]
+                    "guid": "BKa3N`HC<K", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Beta<sub>2</sub>-agonists (fast acting)", 
+                        "<div>MOA: agonist beta2 receptors to cause bronchodilation (Gs mechanism leads to downregulation of MLCK and inhibited Ca<sup>2+</sup>&nbsp;release).</div><div><br /></div><div>E.g. Salbutamol, Terbutaline.</div><div><br /></div><div>Indications: Asthma (acute onset), COPD.</div><div><br /></div><div>ADRs: tremors, tachycardia, hypokalaemia</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "lv!WMlJc?Z", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Leukotriene receptor antagonist", 
+                        "<div>MOA: antagonises leukotriene receptors which inhibits bronchoconstriction and promotes bronchodilation.&nbsp;</div><div><br /></div><div>E.g. Montelukast, Zarfirlukast.</div><div><br /></div><div>Indications: Asthma (prevention), NSAID induced bronchospasm.</div><div><br /></div><div>ADRs: GI disturbances, headache, hypersensitivity, dry mouth.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "let384b+(I", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Muscarinic receptor antagonist", 
+                        "<div>MOA: (all via Vagus) antagonises ACh at M3 muscarinic receptors preventing bronchoconstriction and mucus secretion.</div><div><br /></div><div>E.g. Ipratropium, tiotropium.</div><div><br /></div><div>Indications: COPD.&nbsp;</div><div><br /></div><div>ADRs: dry mouth, blurry vision and urinary retention.</div><div><br /></div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "FD|n$Hd}v1", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Xanthines", 
+                        "<div>MOA: inhibits phosphodiesterase and is an adenosine receptor antagonist.&nbsp;</div><div><br /></div><div>E.g. Theophylline, Aminophylline</div><div><br /></div><div>Indications: 2nd line for chronic asthma, COPD.&nbsp;</div><div><br /></div><div>ADRs: GI disturbances, tachycardia, anxiety, seizures.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "M4q@Zz0w;V", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Antihistamine", 
+                        "MOA: antagonise H<sub>2</sub>&nbsp;histamine receptors.<div><br /></div><div>E.g.: Ranitidine</div><div><br /></div><div>Indications: dyspepsia, peptic ulcer, GORD</div><div><br /></div><div>ADRs: sedation, antimuscarinic affects (dry mouth, drowsiness, blurred vision, urinary retention</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Ib1C2fxw.{", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
                 }
             ]
         }
     ], 
-    "crowdanki_uuid": "70437ba1-edf5-11e6-8c0b-e03f49c5750a", 
-    "deck_config_uuid": "70437ba2-edf5-11e6-bc44-e03f49c5750a", 
+    "crowdanki_uuid": "aad3ea11-3bdf-11e7-9b51-606c664fcc47", 
+    "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
     "deck_configurations": [
         {
             "__type__": "DeckConfig", 
             "autoplay": true, 
-            "crowdanki_uuid": "70437ba2-edf5-11e6-bc44-e03f49c5750a", 
+            "crowdanki_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
             "dyn": false, 
             "lapse": {
                 "delays": [
@@ -2461,10 +417,10 @@
                 "initialFactor": 2500, 
                 "ints": [
                     1, 
-                    2, 
+                    4, 
                     7
                 ], 
-                "order": 1, 
+                "order": 0, 
                 "perDay": 20, 
                 "separate": true
             }, 
@@ -2490,7 +446,7 @@
     "note_models": [
         {
             "__type__": "NoteModel", 
-            "crowdanki_uuid": "3ecc46cf-eef2-11e6-b6b0-b6f86778e780", 
+            "crowdanki_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
             "flds": [
                 {
@@ -2514,7 +470,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic-ea0fc", 
+            "name": "Basic", 
             "req": [
                 [
                     0, 
@@ -2538,117 +494,6 @@
                 }
             ], 
             "type": 0, 
-            "vers": []
-        }, 
-        {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "dd023d6f-fea1-11e6-a7dd-0026b6b04af0", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
-            "flds": [
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Front", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Back", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic (and reversed card)", 
-            "req": [
-                [
-                    0, 
-                    "all", 
-                    [
-                        0
-                    ]
-                ], 
-                [
-                    1, 
-                    "all", 
-                    [
-                        1
-                    ]
-                ]
-            ], 
-            "sortf": 0, 
-            "tags": [], 
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Card 1", 
-                    "ord": 0, 
-                    "qfmt": "{{Front}}"
-                }, 
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Card 2", 
-                    "ord": 1, 
-                    "qfmt": "{{Back}}"
-                }
-            ], 
-            "type": 0, 
-            "vers": []
-        }, 
-        {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "704b91f0-edf5-11e6-82ad-e03f49c5750a", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: whit;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
-            "flds": [
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Text", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze-c6523", 
-            "sortf": 0, 
-            "tags": [], 
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n<font color=red>{{Extra}}</font>", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Cloze", 
-                    "ord": 0, 
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ], 
-            "type": 1, 
             "vers": []
         }
     ], 
