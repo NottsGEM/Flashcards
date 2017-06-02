@@ -4,77 +4,6 @@
         {
             "__type__": "Deck", 
             "children": [], 
-            "crowdanki_uuid": "aad41121-3bdf-11e7-ba27-606c664fcc47", 
-            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
-            "desc": "", 
-            "dyn": 0, 
-            "extendNew": 10, 
-            "extendRev": 50, 
-            "media_files": [], 
-            "mid": "1483473986791", 
-            "name": "Cardiovascular pharmacology", 
-            "notes": [
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "ACE inhibitors", 
-                        "A class of drug which inhibits the conversion of Angiotensin I (inactive) to Angiotensin II (active). An example is Ramipril."
-                    ], 
-                    "flags": 0, 
-                    "guid": "A`zgAkwxcZ", 
-                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
-                    "tags": [
-                        "Pharmacology"
-                    ]
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Beta-blockers", 
-                        "Full antagonists of beta-adrenoreceptors, some can be cardio-specific (e.g. bisoprolol) blocking type I adrenoreceptors. Their effect is to cause vasodilation, and they can be used to treat tachycardia (sometimes with Ivabradine)."
-                    ], 
-                    "flags": 0, 
-                    "guid": "I%}[_(Kr+v", 
-                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
-                    "tags": [
-                        "Pharmacology"
-                    ]
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Angiotensin receptor blockers (ARBs)", 
-                        "Drugs which act to prevent the binding of Angiotensin II to its receptor subtypes (via competitve inhibition?).&nbsp;"
-                    ], 
-                    "flags": 0, 
-                    "guid": "c,i&O,_d6p", 
-                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
-                    "tags": [
-                        "Pharmacology"
-                    ]
-                }, 
-                {
-                    "__type__": "Note", 
-                    "data": "", 
-                    "fields": [
-                        "Aldosterone antagonists", 
-                        "Drugs which competitively inhibit aldosterone."
-                    ], 
-                    "flags": 0, 
-                    "guid": "zXpV`Wythy", 
-                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
-                    "tags": [
-                        "Pharmacology"
-                    ]
-                }
-            ]
-        }, 
-        {
-            "__type__": "Deck", 
-            "children": [], 
             "crowdanki_uuid": "aad4383b-3bdf-11e7-9302-606c664fcc47", 
             "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
             "desc": "", 
@@ -88,7 +17,7 @@
                     "__type__": "Note", 
                     "data": "", 
                     "fields": [
-                        "Serotonin / 5HT<sub>3</sub> antagonists", 
+                        "Serotonin/5HT antagonists", 
                         "MOA: antagonise 5HT<sub>3</sub>&nbsp;receptors.<div><br /></div><div>E.g.: Ondansetron, granisetron</div><div><br /></div><div>Indications: cancer chemotherapy emesis and postoperative N&amp;V.</div><div><br /></div><div>ADRs: constipation, flushing, headache, fatigue .</div>"
                     ], 
                     "flags": 0, 
@@ -257,7 +186,7 @@
                     "data": "", 
                     "fields": [
                         "5-aminosalicylates", 
-                        "MOA: stimulate synthesis of 5-aminoslicylic acid; which inhibits leukotriene and prostanoid formation, reduces free radical scavenging and decreases neutrophil chemotaxis.<div><br /></div><div>E.g.: Mesalazine, sulfasalazine&nbsp;</div><div><br /></div><div>Indication: IBD (Crohn's and UC), Rheumatoid arthritis</div><div><br /></div><div>ADRs: diarrhoea, N&amp;V, abdominal pain, hypersensitivity reactions (rash and urticaria)&nbsp;</div>"
+                        "MOA: (anti-inflammatory) stimulate synthesis of 5-aminoslicylic acid; which inhibits leukotriene and prostanoid formation, reduces free radical scavenging and decreases neutrophil chemotaxis.<div><br /></div><div>E.g.: Mesalazine, sulfasalazine&nbsp;</div><div><br /></div><div>Indication: IBD (Crohn's and UC), Rheumatoid arthritis</div><div><br /></div><div>ADRs: diarrhoea, N&amp;V, abdominal pain, hypersensitivity reactions (rash and urticaria)&nbsp;</div>"
                     ], 
                     "flags": 0, 
                     "guid": "hOrOH-.%m|", 
@@ -383,6 +312,815 @@
                     ], 
                     "flags": 0, 
                     "guid": "Ib1C2fxw.{", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "53688c12-4791-11e7-a4e4-606c664fcc47", 
+            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Limbs and back pharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Weak opioids", 
+                        "MOA: weak opioid is catalysed to morphine by liver enzyme (CYP2D6). Morphine acts at&nbsp;μ-opioid receptor (coupled with a G<sub>i&nbsp;</sub>pathway presynaptically and G<sub>s</sub>&nbsp;postsynaptically), the overall effect is to reduce action potential transmission of pain.<div><br /></div><div>Presynaptic neurone: inhibition of AC and VG Ca<sup>2+ </sup>channels.</div><div><br /></div><div>Postsynaptic neurone: K<sup>+</sup>&nbsp;channels are activated (hyperpolarising), making it harder to reach the action potential threshold.&nbsp;<div><div><br /></div><div>E.g.: Codeine, dihydrocodeine, tramadol&nbsp;</div><div><br /></div><div>Indications: mild to moderate pain.</div><div><br /></div><div>Contraindications: acute respiratory depression, paralytic ileus, raised intracreanial pressure following head trauma, comatose.&nbsp;</div><div><br /></div><div>ADRs: constipation, dry mouth, hypotension, respiratory depression (overdose)</div></div></div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "O&B&<fD+~p", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Strong opioids", 
+                        "MOA: acts directly on&nbsp;μ-opioid receptors to stimulate G<sub>i </sub>pathways presynaptically and G<sub>s</sub>&nbsp;postsynaptically. Inhibiting AC and VG Ca<sup>2+</sup>&nbsp;channels presynaptically and activating VG K<sup>+ </sup>postsynaptically.&nbsp;<div><br /></div><div>E.g.: Morphine, fentanyl&nbsp;</div><div><br /></div><div>Indications: moderate to severe pain</div><div><br /></div><div>Contraindicadtions: respiratory depression</div><div><br /></div><div>ADRs: constipation, hormone imbalance (e.g. it suppresses LH), osteoporosis, addiction</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "w_s#Fl4a=K", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "NSAIDs", 
+                        "MOA: can act through non-specific inhibition of COX1/<b>COX2</b> receptors. These reduce the effects of prostaglandins. In COX1 pathway PGE<sub>2 </sub>is blocked leading to reduced mucus secretion. In COX2 pathways PGI<sub>2</sub>&nbsp;is blocked leading to a reduction in pain, fever and inflammation.<div><br /></div><div>E.g.: paracetamol, naproxin, ibuprofen, aspirin</div><div><br /></div><div>Indications: mild pain</div><div><br /></div><div>Contraindications: severe asthma,&nbsp;</div><div><br /></div><div>ADRs: GI bleeding, thrombosis (reduced prostacyclin, needed to inhibit platelet activation), kidney insufficiency (COX1 pathway affects renal homeostasis, GFR), bronchospasm</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "QE*Pk<,3[D", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Opioid receptor antagonist&nbsp;", 
+                        "MOA: binds to&nbsp;μ-opioid receptor and competitvely inhibits the effects of opioids.&nbsp;<div><br /></div><div>E.g.: naloxone&nbsp;</div><div><br /></div><div>Indications: opioid overdose</div><div><br /></div><div>Contraindications: allergy to naloxone</div><div><br /></div><div>ADRs: sweating, severe nausea, severe headache, agitation, anxiety, confusion, tinnitus&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "JEQy)(cyqU", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Depolarising muscle relaxants", 
+                        "MOA: bind to nAChr at NMJs and agonise them. The muscle is held in a state of depolarisation because suxamethonium is longer-acting than ACh and Acetylcholinesterase will not break it down. &nbsp;<div><br /></div><div>E.g.: suxamethonium</div><div><br /></div><div>Indications: general anaesthesia&nbsp;</div><div><br /></div><div>ADRs: hypotension, increased salivation, muscle pain, rash.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "z`Mf]bAM.o", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Non-depolarising muscle relaxants", 
+                        "MOA: antagonises ACh at nAChr and leads to a hyperpolarisation of the NMJ. Muscle cannot contract and is held in a state of 'relaxation'.<div><br /></div><div>E.g.: curare based drugs, rocuronium&nbsp;</div><div><br /></div><div>Indications: general anaesthetic&nbsp;</div><div><br /></div><div>ADRs: sweating, rashes, flushing (vasodilation), apnoea, respiratory depression&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "ufj8VkO&-v", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Acetylcholinesterase inhibitor", 
+                        "MOA: stops the breakdown of ACh in the synaptic cleft and increases its effect. This can help overcome the effects of non-depolarising nAChr antagonists such as rocuronium (by increasing [ACh] which can competitively bind to nAChr).<div><br /></div><div>E.g.: Neostigmine&nbsp;</div><div><br /></div><div>Indications: reversal of curare poisoning (possible iatrogenic)</div><div><br /></div><div>ADRs: cholinergic - hypotension, bradycardia, vasodilation, salivation, bronchoconstriction&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "naQr^jgWJ$", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "mAChr antagonist", 
+                        "MOA: antagonises ACh at muscarinic receptors. Leads to antimuscarinic effects.&nbsp;<div><br /></div><div>E.g.: atropine (belladonna)</div><div><br /></div><div>Indications: reduce cholinergic ADRs</div><div><br /></div><div>ADRs: constipation, reduced bronchial secretions, urinary retention, dry mouth, flushing.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "wfQyS`?R~B", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "aad41121-3bdf-11e7-ba27-606c664fcc47", 
+            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "mid": "1483473986791", 
+            "name": "Cardiovascular pharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "ACE inhibitors", 
+                        "MOA: inhibits angiotensin converting enzyme or ACE. This prevents the conversion of Angiotensin I (inactive) to Angiotensin II (active).&nbsp;<div><br /></div><div>E.g.: Captopril, Enalapril, Lisinopril, Perindopril, Ramipril</div><div><br /></div><div>Indications: Hypertension (1st line), post-MI, chronic heart failure, diabetic neuropathy</div><div><br /></div><div>Contraindications: not recomended in gestational hypertension, not always effective in Afro-Caribbean ethnicity because they have low levels of renin endogenously.&nbsp;</div><div><br /></div><div>ADRs: hypotension, dry cough (ACE synthesised in lungs),&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "A`zgAkwxcZ", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Beta-blockers", 
+                        "MOA: Full antagonists of beta-adrenoreceptors dampening the sympathetic pathway (G<sub>s</sub>) of beta-blockers. Antagonism of<b> beta-1 is cardio/kidney specific</b> (inhibit renin release, and dampen cardiac accelerator nerves), whereas beta-2 acts on smooth muscle (vasocontriction - but role of alpha1 is greater), and beta-3 on adipose tissue (blocks lipolysis).&nbsp;<div><br /></div><div>E.g.: propanalol (non-selective), atenolol and bisoprolol (beta1 selective)</div><div><br /></div><div>Indications: Antiarrhythmic, Hypertension, Chronic heart failure (stable), angina, post-MI</div><div><br /></div><div>ADRs: bradycardia, dizziness, fatigue, hypotension, bronchospasm, dyspnoea</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "I%}[_(Kr+v", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Angiotensin receptor blockers (ARBs)", 
+                        "MOA: antagonise angiotensin II receptor type 1 (AT<sub>1</sub>)&nbsp;receptors. Blocking angiotensin II G<sub>q</sub>&nbsp;mechanism.<div><br /></div><div>E.g.: Candesartan, losartan, valsartan&nbsp;</div><div><br /></div><div>Indications: hypertension (if ACEi not tolerated), chronic heart failure, diabetic neruopathy&nbsp;</div><div><br /></div><div>ADRs: dizziness, headache, hyperkalaemia, orthostatic hypotension, renal impairment&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "c,i&O,_d6p", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Aldosterone antagonists", 
+                        "MOA: blocks the affect of aldosterone at the mineralocorticoid receptor (MCR). Antagonism leads to reduction of sodium reabsoption (less Na<sup>+</sup>/K<sup>+</sup>&nbsp;ATPase and Na<sup>+</sup>&nbsp;in the nephron/PCT).<div><br /></div><div>E.g.: Spironolactone, eplerenone</div><div><br /></div><div>Indications: hypertension, oedema (antidiuretic), congestive heart failure, ascites in liver disease</div><div><br /></div><div>ADRs: polyuria, hyponatraemia, hyperkalaemia, mild hypotension, gynecomastia/testicular atrophy (can block androgen MRC).</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "zXpV`Wythy", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": [
+                        "Pharmacology"
+                    ]
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "alpha blockers", 
+                        "MOA: antagonises alpha-1 adrenergic (epinephrine/norepinephrine) receptors (G<sub>q</sub>) and leads to vasodilation/ smooth muscle relaxation - is more important than beta-2 blockers in arterial tone.&nbsp;<div><br /></div><div>E.g.: doxazosin, indoramin</div><div><br /></div><div>Indications: resistant hypertension, prostatic hypertrophy&nbsp;</div><div><br /></div><div>ADRs: hypotension, dizziness, syncope, orthostatic/postural hypertension (hypotension reducing efficacy of barorecptor response)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "QHR4sX9tor", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Anti-anginal", 
+                        "MOA: Inhibition of the cardiac pacemaker current (funny current), in the SAN/AVN of right atrium.&nbsp;<div><br /></div><div>E.g.: Ivabradine&nbsp;</div><div><br /></div><div>Indications: Angina (chronic stable), heart failuer (where LVEF&gt;35% and HR&gt;70bpm)</div><div><br /></div><div>Contraindications: pts taking macrolides, antretrovirals or azole antifungals (inhibitors of CYP3A4)</div><div><br /></div><div>ADRs: luminous phenomina (blockage of retina channels simmilar to the funny channel), bradycardia, first degree AV heart block, dizziness, ventricular ectopics</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "mo,_Tg8VcD", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Anticoagulants (injectable)", 
+                        "MOA: Activates antithrombin III.<div><br /></div><div>E.g.: Unfractionated heparin, dalteparin, enoxaparin&nbsp;</div><div><br /></div><div>Indications: Immediate coagulation, prophylaxis against thrombosis</div><div><br /></div><div>ADRs: bleeding, warfarin necrosis (pts with low protein C can experierence), osteoporosis, calcification</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "J?jucA78(c", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Anticoagulants (oral)", 
+                        "MOA: variable. Dabigatran is a thrombin inhibitor. Warfarin is a Vit K antagonist.&nbsp;<div><br /></div><div>E.g.: Dabigatran and warfarin</div><div><br /></div><div>Indications: prophylaxis against thrombosis, atrial fibrillation (thromboprophylaxis)</div><div><br /></div><div>Contraindications: pregnancy&nbsp;</div><div><br /></div><div>ADRs: bleeding, warfarin necrosis, osteoporosis, purple toe syndrome (small cholesterol emboli lodging in the distal feet), calcification</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Ho4#C>FX4}", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Antiplatelet drugs", 
+                        "MOA: generally drugs which decrease platelet aggregation and inhibit thrombus formation in the arterial circulation. They have 4 main MOAs: inhibition of platelet COX (aspirin);&nbsp;<div>ADP/P2Y12 receptor antagonist (clopidogrel);&nbsp;</div><div>phophodiesterase inhibitor -&gt; inhibition of adenosine reuptake (dipyridamole);&nbsp;</div><div>inhibition of glycoprotein IIb/IIa receptors (Tirofiban).<div><br /></div><div>E.g.: Aspirin, clopidogrel, dipyridamole, tirofiban</div><div><br /></div><div>Indications: Thromboprophylaxis for MI/CVA, atrial fibrillation (thromboprophylaxis), post-MI, prophylaxis of MI (Tirofiban)</div><div><br /></div><div>ADRs: perfuse bleeding from cuts, GI disturbances including pain and diarrhoea, bruising/bleeding under the skin</div></div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Kxpy};H-/Z", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Bile binding agents", 
+                        "MOA: bind to bile in the GIT and prevents its reabsorption. It exchanges its chloride ions with the anioic bile acids to form insoluble complexes which are egested in faeces.&nbsp;<div><br /></div><div>E.g.: Colestyramine&nbsp;</div><div><br /></div><div>Indications: Hyperbilirubinaemia, liver disease</div><div><br /></div><div>ADRs: constipation, increased plasma triglycerides&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "l:yU!(!@Y^", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Calcium channel blockers (dihydropyridine)", 
+                        "MOA: block L-type Ca<sup>2+</sup>&nbsp;channels in vascular smooth muscle. This promotes vasodilation.&nbsp;<div><br /></div><div>E.g.: Amlodipine, nifedipine</div><div><br /></div><div>Indications: Hypertension (1st line), angina&nbsp;</div><div><br /></div><div>ADRs: hypotension, dizziness, polyuria, drowsiness, insomnia&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "C>Hb#NZSjR", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Calcium channel blockers (Class IV antiarrhythmics)", 
+                        "MOA: inhibition of <b>cardiac </b>(and smooth muscle) L-type Ca<sup>2+</sup>&nbsp;channels.<div><br /></div><div>E.g.: Diltiazem, Verapamil</div><div><br /></div><div>Indications: Antiarrhythmic, SVT, hypertension, angina&nbsp;</div><div><br /></div><div>ADRs: bradycardia, constipation, nausea, headache, tiredness</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "D.@>{lS1tA", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Cardiac glycosides", 
+                        "MOA: Inhibits Na<sup>+</sup>/K<sup>+</sup>ATPase in the myocardium. This increases IC sodium levels, sodium can then bind to contractile proteins and increase the strength of myocardial contraction.&nbsp;<div><br /></div><div>E.g.: Digoxin</div><div><br /></div><div>Indications: Atrial fibrillation, chronic heart failure, antiarrhythmic</div><div><br /></div><div>ADRs: fatigue, N&amp;V, anorexia, bradycardia</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "rY|P.f2Azk", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Catecholamines", 
+                        "MOA: binds to adrenergic receptors to work through the sympathetic nervous system. Receptors include alpha-1 (Gq), alpha-2 (Gi), beta-1 (Gs) and beta-3 (Gs).&nbsp;<div><br /></div><div>E.g.: epinephrine, norepinephrine&nbsp;</div><div><br /></div><div>Indications: anaphylaxis, cardiopulmonary resuscitation</div><div><br /></div><div>ADRs: N&amp;A, dyspnoea, palpitations, sweating, dizziness, anxiety</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "CX,AAz@K)y", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Class I antiarrhythmics", 
+                        "MOA: inhibition of Na<sup>+</sup>&nbsp;channels and slowing of SAN firing.&nbsp;<div><br /></div><div>E.g.: Lidocaine, flecanide&nbsp;</div><div><br /></div><div>Indications: VT, anti-arrhythmic, local anaesthetic&nbsp;</div><div><br /></div><div>ADRs: hypotension, bradycardia, bronchospasm, sleepiness, muscle twitching, confusion, numbness, vomitting&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "MEFUK!SA1b", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Class II antiarrhythmics", 
+                        "MOA: antagonism of adrenergic beta1-receptors. Basically beta-blockers as antiarrhythmics.<div><br /></div><div>E.g.: sotalol&nbsp;</div><div><br /></div><div>Indications: paroxysmal AF, antiarrhythmic</div><div><br /></div><div>ADRs: fatigue, dizziness, bradycardia, palpitations, shortness of breath</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Gwiii$V#VV", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Class III antiarrhythmics", 
+                        "MOA: blocking of K<sup>+</sup>&nbsp;channels in the myocardium leading to prologation of action potential (since cell cannot repolarise).<div><br /></div><div>E.g.: Amiodarone, dronedarone, sotalol (also class II)</div><div><br /></div><div>Indications: AF, arrhythmia&nbsp;</div><div><br /></div><div>ADRs: cardiac hypothyroidism (since amiodarone has Iodine, leads to bradycardia/arrhythmia), pulmonary fibrosis (increased retension of CO), gynecomastia&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "dmc3JI*M+X", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Fibrates", 
+                        "MOA: activates peroxisome proliferator-activated receptors (PPAR), which is a class of IC receptors modulating fat/carbohydrate metabolism and adipose tissue differentiation. They increase HDL and lower triglyceride in blood.&nbsp;<div><br /></div><div>E.g.: Benzafibrate, fenofibrate</div><div><br /></div><div>Indications: hypertriglycaemia, dyslipidaemia, T2DM</div><div><br /></div><div>ADRs: gastric myopathy (creatine kinase elevation), gallstones (they increase the cholesterol content of bile), rhabdomyolysis (with statins), renal insufficiency&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "m`XaSd=.&H", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Fibrinolytics&nbsp;", 
+                        "MOA: enzyme which activates plasminogen (converting to plasmin), which will trigger the cascade of events involved in clot/thrombus dissolution.&nbsp;<div><br /></div><div>E.g.: Streptokinase</div><div><br /></div><div>Indications: Clot busting in MI, pulmonary embolism, arterial thromboembolism&nbsp;</div><div><br /></div><div>Contraindications: second use in a persons lifetime is not recommended&nbsp;</div><div><br /></div><div>ADRs: nausea, bleeding, hypotension, allergiic reactions</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "N{$tIXWcGz", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Statins", 
+                        "MOA: HMG-CoA reductase inhibition prevents the synthesis of endogenous lipoproteins by hepatocytes. Also increases the uptake of LDL.&nbsp;<div><br /></div><div>E.g.: Atorvastatin, fluvastatin, pravastatin, simvastatin&nbsp;</div><div><br /></div><div>Indications: Hypercholesterolaemia, high cardiovascular risk, post-MI</div><div><br /></div><div>Contraindications: pregnancy and breastfeeding, active liver disease</div><div><br /></div><div>ADRs: GI effects, heopatobiliary effects, muscle pain, rashes, increased risk of T2DM, liver abnormalities.&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "bwQh]9[iHr", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Loop diuretics&nbsp;", 
+                        "MOA: Inhibits <b>Na<sup>+</sup>/K<sup>+</sup>/2Cl<sup>-</sup>&nbsp;</b>co-transporter in ascending loop of Henle (~25% sodium). Competes for the binding site of Cl<sup>-</sup>.<div><br /></div><div>E.g.: Furosemide, bumetanide</div><div><br /></div><div>Indications: chronic heart failure, renal failure, LV failure, ascites in the liver</div><div><br /></div><div>Contraindications: Anuria (could lead to potential irreversible kidney failure)</div><div><br /></div><div>ADRs: ototoxicity, hypovolaemia, hypomagnesasemia&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "jL#tI&#G3o", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Nitrates", 
+                        "MOA: provides NO to cell. In the endothelium of arteries this triggers the production of cGMP 2nd messenger -&gt; protein kinase G which then <b>reduces contration (stopping Ca<sup>2+</sup>)</b>. Leads to vasodilation, decreased preload (venodilation).<div><br /></div><div>E.g.: Glyceryl trinitrate (GTN), isosorbide mononitrate</div><div><br /></div><div>Indications: angina, chronic heart failure</div><div><br /></div><div>ADRs: postural hypotension, flushing, headache</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "KR>Ds)qqWq", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Potassium channel activators&nbsp;", 
+                        "MOA: activate ATP-sensitive K<sup>+</sup>&nbsp;channels and lead to the release of NO. NO via cGMP leads to decreased Ca<sup>2+</sup>&nbsp;and vasodilation.&nbsp;<div><br /></div><div>E.g.: Nicorandil</div><div><br /></div><div>Indications: Angina, post-MI, atherosclerotic disease</div><div><br /></div><div>ADRs: palpitations, weakness, vomitting, perianal ulceration</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "ybFDI&4{xc", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Potassium sparing diuretic (mineralocorticoid antagonist)", 
+                        "MOA: mineralocorticoid antagonist which competitively binds to aldosterone receptors (type 1?) and prevents the expression of genes for Na<sup>+</sup>/K<sup>+</sup>-ATPase and Na<sup>+</sup>&nbsp;channels in the PCT.&nbsp;<div><br /></div><div>E.g.: Eplerenone, spironolactone&nbsp;</div><div><br /></div><div>Indications: Chronic heart failure, weak diuresis, ascites, oedema</div><div><br /></div><div>ADRs: hyperkalaemia, hyponatraemia, confusion, metabolic acidosis (H<sup>+</sup>&nbsp;also retainded with K<sup>+</sup>)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "vO(SUOil1=", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Potassium sparing diuretic", 
+                        "MOA: blocks aldosterone sensitive Na<sup>+</sup>&nbsp;channels in the late DCT and collecting duct (normally reabsorbs 1-2% Na<sup>+</sup>, reduced secretion of K<sup>+</sup>.<div><br /><div>E.g.: Amiloride&nbsp;</div><div><br /></div><div>Indications: oedema, prevention of hypokalaemia (if on other diuretics)</div><div><br /></div><div>ADRs: hyperkalaemia, metabolic acidosis</div></div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "nlD05^$eZ", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Thiazide and thiazide-like diuretics", 
+                        "MOA: Inhibition of Na<sup>+</sup>/Cl<sup>-</sup>&nbsp;symporter in the DCT (normally 5% sodium).&nbsp;<div><br /></div><div>E.g.: Bendroflumethiazide, chlortalidone, indapamide</div><div><br /></div><div>Indications: hypertension, heart failure</div><div><br /></div><div>Contraindications: electrolyte derangement, Addison's disease, renal imparment</div><div><br /></div><div>ADRs: hypercalcaemia, fall in TPR (due to hypercalcaemia), hyperuraemia (gout), hyperglycaemia</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "i6WQ@!2})?", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "53694f57-4791-11e7-8fdc-606c664fcc47", 
+            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Antibiotics, antivirals and antifungals", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Penicillin", 
+                        "MOA: Inhibition of transpeptidase, which cross-links peptidoglycans (NAG and NAM) in the bacterial cells wall.&nbsp;<div><br /></div><div>E.g.: Amoxicilin, benzylpenicillin, co-amoxyclav (addition of clavulanic acid prevents breakdown of beta-lactamases), flucloxacillin, phenoxymethyl penicillin</div><div><br /></div><div>Indications: More effective agains gram-positive bacteria (cell wall directly exposed), Chest infections, UTIs, cellulitis, pneumonia</div><div><br /></div><div>ADRs: allergic reaction, nausea, rash, superinfection (due to resistance), diarrhoea</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "c]7]OcPZMB", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Glycopeptidases", 
+                        "MOA: Inhibit bacterial cell wall synthesis by inhibiting growth of the peptidoglycan chain.<div><br /></div><div>E.g.: Vancomycin</div><div><br /></div><div>Indications: against gram-positive cocci, mainly bacteriostatic (except enterococci). In treatment of <i>Clostridium difficile </i>they can be ingested and required only to be distributed to gut (not enter blood -&gt; peripheral tissues)</div><div><br /></div><div>ADRs: nephrotoxicity, ototoxicity (reversible upon cessation of therapy), red man syndrome (bulk histamine release as a result of drug admin),&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "zzBKf-;cC$", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Aminoglycosides&nbsp;", 
+                        "MOA: Irreversibly bind to bacterial robosomes leading to an inhibition of protein synthesis.<div><br /></div><div>E.g.: Gentamicin</div><div><br /></div><div>Indications: (aerobic) gram-negative antibacterial. Septacaemia, endocarditis, acute pyelonephritis, peritonitis, billary tract infections, conjunctivitis</div><div><br /></div><div>ADRs: excacerbates weakness in myasthenia gravis, contraindicated in patients with mitochondrial diseases as interactions can lead to irreversible hearing loss, tinnitus, cardiac toxicity and renal toxicity.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "x3pT<;;.Nx", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Cephalasporins", 
+                        "MOA: binds to beta-lactam binding sites and inhibits cell wall synthesis.&nbsp;<div><br /></div><div>E.g.: cefalexin, cefotaxime, ceftriaxone, cefuroxime</div><div><br /></div><div>Indications: gram positive bacteria (later generation are better against gram negative, at the expense of gram positive).&nbsp;Septicaemia, pneumonia, UTIs,Biliary tract infections, Peritonitis</div><div><br /></div><div>ADRs: diarrhoea, nausea, rash, electrolyte disturbances</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "m(@f7[X#Hx", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Macrolides", 
+                        "MOA: prevent the translocation movement (peptidyltransferase) of bacterial ribosome (50S subunit) along the mRNA - preventing protein synthesis. Their action is bacteriostatic.&nbsp;<div><br /></div><div>E.g.: Azithromycin, clarithromycin, erythromycin</div><div><br /></div><div>Indications: Chlamydia, pneumonia, cellulitis, chest infections acne</div><div>Specifics: <i>H. pylori, Campylobacter</i></div><div><br /></div><div>ADRs: myopathy (CYP450 inhibition), arrhythmia (QT prolongation, torsades de pointes), nausea (from enterohepatic recycling), cholestasis (bile cannot flow into duodenum).</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "O@L=hR6.KT", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Tetracycline", 
+                        "<div>MOA: inhibition of protein synthesis. It binds to the 30S subunit of the ribosome and prevents tRNA binding and therefore elongation of amino acid chain.&nbsp;</div><div><br /></div><div>E.g.: Tetracycline, doxycycline&nbsp;</div><div><br /></div><div>Indications: broad spectrum (initially both gram +/-). Chlamydia, chest infection, Lyme's disease, periodontal disease, MRSA, malarial prophylaxis</div><div><br /></div><div>ADRs: vommiting, diarrhoea, rash and loss of appetite, renal problems, photosensitivity</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Pk/Yr~9Hz%", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Quinolones", 
+                        "<div>MOA: Enter the bacterial cell through porins. Leads to inhibition of bacterial DNA gyrase (gram negative) and topoisomerase IV (gram positive). Possibly also inhibit synthesis of mitochondrial DNA.</div><div><br /></div><div>E.g.: Ciprofloxacin, ofloxacin</div><div><br /></div><div>Indications: (broad spectrum). Good against IC pathogens such as <i>Legionella </i>or <i>Mycoplasma.</i>&nbsp;UTIs also.</div><div><br /></div><div>ADRs:&nbsp;torsades de pointes (QT elongation due to blockage of K<sup>+</sup>&nbsp;VG channels),&nbsp;long term use can lead to tendonitis, diarrhoea, nausea, vomitting, insomnia,,&nbsp;restlessness, convulsions.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "c[w}X-y^&R", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Sulphonamides and trimethoprim", 
+                        "<div>MOA: Inhibition of folate synthesis (binds to dihydrofolate reductase) and reduction of DNA/RNA precursors.</div><div><br /></div><div>E.g.: Tetracycline, doxycycline&nbsp;</div><div><br /></div><div>Indications: generally against aerobic bacteria. UTIs, use of both classes of drugs can increase efficacy synergistically.&nbsp;</div><div><br /></div><div>ADRs: thrombocytopenia (low folic acid leading to low platelets and potentially megablastic anaemia), hyperkalaemia (rimethoprim antagonism of Na<sup>+ </sup>channels&nbsp;in the DCT leads to relative reabsorption of K<sup>+</sup>),&nbsp;nausea, vomitting, rash, diarrhoea, photosensitivity.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "f`j`(jjDtQ", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Metronidazole", 
+                        "<div>MOA: DNA damage due to toxic oxygen product build up.&nbsp;</div><div><br /></div><div>E.g.: Metronidazole</div><div><br /></div><div>Indications: Protozoal infections, anaerobic infections, <i>Rosaceae, H. pylori, </i>peritonitis, <i>C. difficile</i></div><div><br /></div><div>ADRs: nausea, diarrhoea, weight loss, abdominal pain, dizziness</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "Q{ff`B]JXn", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Antituberculosis", 
+                        "<div>MOA:&nbsp;</div><div>Ethambutol inhibits arabinosyl transferase involved in cell wall synthesis.</div><div>Isoniazid inhibits synthesis of mycolic acid.</div><div>Pyrazinamide has unclear MOA. Effective against rapidly dividing mycobacteria.</div><div>Rifampicin inhibits DNA-dependent RNA polymerase.</div><div><br /></div><div>E.g.: Ethambutol, isoniazid, pyrazinamide, rifampicin&nbsp;</div><div><br /></div><div>Indications: Tuberculosis</div><div><br /></div><div>ADRs: thrombocytopenia (R), hepatitis (P, R, I), rash ( R, P, E)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "EXI5wNyOXl", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Anti-flu", 
+                        "<div>MOA:&nbsp;neuramidase inhibition which prevents the entry and release of the viral particles from the host cells.&nbsp;</div><div><br /></div><div>E.g.: Oseltamivir, zanamivir&nbsp;</div><div><br /></div><div>Indications: Influenza (A / B)</div><div><br /></div><div>ADRs: bronchospasm, nausea and vomitting, hepatitis, anaphylaxis, arrhythmias</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "y~J+}+Olz]", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Anti-viral (herpes)", 
+                        "<div>MOA: inhibition of herpes virus DNA polymerase.</div><div><br /></div><div>E.g.: Aciclovir, Valaciclovir (prodrug of aciclovir)</div><div><br /></div><div>Indications: Shingles, herpes-zoster virus (HZV), herpes simplex</div><div><br /></div><div>ADRs: nausea, vomiting, diarrhoea, agitation, vertigo</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "n==E_5LD?U", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Linezolid", 
+                        "<div>MOA:&nbsp;inhibits formation of 70S ribosome and initiation of protein synthesis.</div><div><br /></div><div>Indications: gram positive bacteria with high resistance to other antibiotics. MRSA, <i>Streptococci,</i>&nbsp;vancomycin-resistant enterococci (VRE)</div><div><br /></div><div>ADRs: common- headache, diarrhoea, rash and nausea. Serious: serotonin syndrome, bone marrow suppression leading to thrombocytopenia, lactic acidosis.&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "fCN0zaT`K$", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Mupirocin", 
+                        "<div>MOA: inhibition of bacterial protein and RNA synthesis (binding to bacterial tRNA). Often applied topically by cream.</div><div><br /></div><div>Indications: MRSA</div><div><br /></div><div>ADRs: itchyness, rash, headache, nausea</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "M0sBE=X}E~", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Antifungal (triazoles)", 
+                        "<div>MOA:&nbsp;Inhibition of P450 dependent&nbsp;demethylase which converts&nbsp;lanosterol to ergosterol; the accumulation of lanosterol&nbsp;disrupts fungal membrane.</div><div><br /></div><div>E.g.: Fluconazole, itraconazole</div><div><br /></div><div>Indications: fungal infections such as candidasis or histoplasmosis</div><div><br /></div><div>ADRs: vomiting, diarrhoea, rash, increased transaminases (ALT/AST) indicating liver damage</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "NWfPe]cm1D", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Antifungals (imidazoles)", 
+                        "MOA:&nbsp;Inhibition of P450 dependent&nbsp;demethylase (binding of N3 to haem of P450) which converts&nbsp;lanosterol to ergosterol; the accumulation of lanosterol&nbsp;disrupts fungal membrane.&nbsp;<div><br /></div><div>E.g.: Clotrimazole</div><div><br /></div><div>Indications: fungal infections. Athelete's foot, ringworm, vaginal yeast infections, oral candidiasis</div><div><br /></div><div>ADRs: itching, nausea and vomiting. Abnormal LFTs. Vaginal burning sensation, soreness, oedema or discharge from vagina or penis (of sexual partner)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "qet1>Tl08r", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Antifungals (ergosterol acting)", 
+                        "MOA: binds to ergosterol and disrupts fungal membrane.<div><br /></div><div>E.g.: Amphotericin, nystatin<br /><div><br /></div><div>Indications: yeast infection (A), musculocutaneous candida infections (N)</div><div><br /></div><div>ADRs: burning, itching, rash. Nausea and vomiting when taken orally.</div></div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "y*PePP!1gs", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Griseofulvin", 
+                        "MOA: interferes with fungal microtubules (binds to tubulin and inhibits mitosis) and nucleic acid synthesis (binding to keratin precursors and latering gene transcription ot give them fungal resistance).<div><br /></div><div>Indications: tinea infections</div><div><br /></div><div>ADRs: allergic reactions, nausea, diarrhoea, insomnia, fatigue/lethargy.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "DdLlCH?/5i", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Terbinafine", 
+                        "MOA: inhibits the conversion of squalene to lanosterol, with the accumulation of squalene causing cell death.&nbsp;<div><br /></div><div>Indications: fungal infections. Ringworms, pityriasis versicolor, fungal nail infections.</div><div><br /></div><div>ADRs: nausea, diarrhoea, headache, cough, rash, eleveated AST/ALT - hepatitis</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "z`[G7JhS=b", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }
+            ]
+        }, 
+        {
+            "__type__": "Deck", 
+            "children": [], 
+            "crowdanki_uuid": "53699d7c-4791-11e7-a892-606c664fcc47", 
+            "deck_config_uuid": "aad3ea12-3bdf-11e7-977e-606c664fcc47", 
+            "desc": "", 
+            "dyn": 0, 
+            "extendNew": 10, 
+            "extendRev": 50, 
+            "media_files": [], 
+            "name": "Endocrine pharmacology", 
+            "notes": [
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Antithyroid", 
+                        "MOA: decreases the rate of synthesis of thyroid hormone (T<sub>3</sub>&nbsp;and T<sub>4</sub>) by inhibiting the action of thyroperoxidase (TPO). TPO reduces Iodide to Iodine, which is then coupled with tyrosine.&nbsp;<div><br /></div><div>E.g.: Carbimazole (prodrug), methimazole&nbsp;</div><div><br /></div><div>Indications: Hyperthyroidism, Graves' disease</div><div><br /></div><div>ADRs: hypothyroidism, bone marrow suppression (due to reduced PTH and more bone being laid down - reducing marrow space), rash, puritis, disruption of HPO axis, congenital defects when prescribed during pregnancy (rare), foetal hypothyroidism.</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "beEfHX$j!1", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Biguanides", 
+                        "MOA: unknown. Decreases hepatic gluconeogensis and increases insulin sensitivity by antagonising the action of glucagon (promotes GLUT4 phosphorylation). AMP-activated protein kinase (AMPK) promotes fatty acid oxidation and supresses lipid synthesis.&nbsp;<div><br /></div><div>E.g.: Metformin</div><div><br /></div><div>Indications: (1st line) T2DM, prediabetes,&nbsp;gestational diabetes, female infertility,&nbsp;PCOS,</div><div><br /></div><div>ADRs: diarrhoea, cramps, nausea and vomitting, increased flatulence, hypothyroidism (reduce TSH), malabsorption (from GI irritation), lactic acidosis (if prescribed to comorbidities such as renal insufficiency or CHF)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "pbAJ@)8eq/", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Corticosteroids (endocrine)", 
+                        "MOA: diffuses through the plamsa membrane receptor and binds to cytoplasmic receptors, then transported to nucleus where regulates gene transcription. Upregulation of lipocortin, which inhibits phospholipase A<sub>2</sub>.<div><br /></div><div>E.g.: Hydrocortisone, prednisolone&nbsp;</div><div><br /></div><div>Indications: anti-inflammatory, eczema, UC, severe asthma</div><div><br /></div><div>ADRs: increased risk of systemic infection (immunosupression), gynecomastia in males (supression of DHEA in zona reticularis), anxiety and depression (withdrawal from steroid euphoria), fluid retention and hypertension, steroid induced osteoporosis (inhibition of osteoblast, GI calcium absorbtion and urine calcium loss)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "C,9],ljmW4", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Gliptins", 
+                        "MOA: prevents the action of DPP-4 (cleaves and inactivates GLP-1 incretin). This leads to increased levels of GLP-1 and can act to suppress the secretion of glucagon. They are at a low risk of inducing a hypo becuase they act within the body's negative feedback system.&nbsp;<div><br /></div><div>E.g.: Sitagliptin, vildagliptin&nbsp;</div><div><br /></div><div>Indications: T2DM</div><div><br /></div><div>ADRs: headache, nausea, hypersensitivity and skin reaction (exogenous enzyme), heart failure (fluid retention?)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "cr>(2=AtMx", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Exogenous Insulin", 
+                        "MOA: promote insertion of GLUT4 transporters in the plasma membrane to move glucose from the blood into the cell by facilitated diffusion.&nbsp;<div><br /></div><div>E.g.: actrapad (short), insulatard (medium), ultralente (long)</div><div><br /></div><div>Indications: T1DM</div><div><br /></div><div>ADRs: hypersensitivity reactions, hypoglycaemic attacks (from over administration), may lead to poor eating habits (running glucose high)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "f%YK|pFgg,", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Exogenous thyroxine", 
+                        "MOA: replaces thyroxine (T<sub>4</sub>) and is cleaved to T<sub>3</sub>&nbsp;which binds to nuclear receptors and upregulates BMR by increasing (Na<sup>+</sup>/K<sup>+</sup>-ATPase, and [mitochondria])<div><br /></div><div>E.g.: Levothyroxine&nbsp;</div><div><br /></div><div>Indications: Hypothyroidism, Hashimoto's thyroiditis&nbsp;</div><div><br /></div><div>ADRs: mimic hyperthyroidism (narrow therapeutic window), muscle aches, osteoporosis, palpitations, insomnia, rapid weight loss, confusion, agitation</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": ")R|bLc@fU", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Incretins / GLP-1 analog", 
+                        "MOA: Activation of GLP-1 receptor to increase insulin secretion and reduce glucagon release. Also resists inactivation by DPP-4 This is linked to oral ingestion rather than IV as incretins prime the GIT for postprandial digestion (the incretin effect).<div><br /></div><div>E.g.: Exenatide, liraglutide&nbsp;</div><div><br /></div><div>Indications: T2DM</div><div><br /></div><div>ADRs: hypoglycaemic attack, proliferative effects on pancreatic cells may be associated with pancreatitis or pacreatic cancer (not proven)</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "QX8|85AJgD", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Sulphonylureas", 
+                        "MOA: inhibit ATP sensitive K<sup>+</sup>&nbsp;channels on the beta cells of the pancreas. This means that the cells are more likely to depolarise and therefore release insulin. It is a form of increasing insulin sensitivity.&nbsp;<div><br /></div><div>E.g.: Glibenclamide, gliclazide, tolbutamide</div><div><br /></div><div>Indications: T2DM</div><div><br /></div><div>ADRs: weight gain (increased action of insulin), hypo attacks, hypersensitivity, headache&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "NLBGIPQ;XY", 
+                    "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
+                    "tags": []
+                }, 
+                {
+                    "__type__": "Note", 
+                    "data": "", 
+                    "fields": [
+                        "Thiazolidinediones&nbsp;", 
+                        "MOA: colloquially known as glitazones. Insulin sensitisers which act by enhancing glucose oxidation in the tissues, this reduces insulin resistance. They alter gene transcription by activating gamma nuclear peroxisome proliferator-activated receptors (PPARγ).<div><br /></div><div>E.g.: Pioglitazone</div><div><br /></div><div>Indications: T2DM</div><div><br /></div><div>ADRs: oedema, weight gain, hypo attacks, hepatitis / liver failure (strain on liver to catabolise high concentrations of drug),&nbsp;</div>"
+                    ], 
+                    "flags": 0, 
+                    "guid": "HN~J%gBzEP", 
                     "note_model_uuid": "aad41125-3bdf-11e7-b3d6-606c664fcc47", 
                     "tags": []
                 }
